@@ -63,7 +63,7 @@ const Index = () => {
     <div className="relative">
       <ScrollAnimations />
       
-      {/* Hero Section */}
+      {/* Hero Section with Modern Design */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <ParticleBackground />
         
